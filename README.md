@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Laiba Ahmad Kalsoom</h1>
 <h3 align="center">A passionate Medical developer from Germany</h3>
 
-<img align"right" alt="coding"width="400" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" >
+<img align"right" alt="coding"width="400" src="![image](https://github.com/LaibS21/LaibS21/assets/147617539/0dd22ea6-6935-4239-af17-ddf2f70d5da0)
+" >
 - 📫 How to reach me **laibaahmadkalsoom@gmail.com**
 
 - ⚡ Fun fact **The first “computer bug” was an actual bug**
