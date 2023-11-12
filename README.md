@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Medical developer from Germany</h3>
 
 <img align="right" alt="coding" width="400" src="<img align="https://res.cloudinary.com/practicaldev/image/fetch/s--vetgVeGm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zapl49gs057s2dk50a73.gif">)
-">
 
 - 🌱 Current vibe: **Working for the lifestyle i promised myself.**
 
