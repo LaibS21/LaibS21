@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Laiba Ahmad Kalsoom</h1>
 <h3 align="center">A passionate Medical developer from Germany</h3>
 
-<img align="right" alt="coding" width="400" src="https://giphy.com/stickers/video-games-gamers-types-of-drqmAm0kLnqPVzFB2p">
+<img align="right" alt="coding" width="400" src="![image](https://github.com/LaibS21/LaibS21/assets/147617539/1261db09-0ce1-401d-b216-0c10a130d381)
+">
 
 - 🌱 Current vibe: **Working for the lifestyle i promised myself.**
 
