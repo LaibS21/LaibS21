@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Laiba Ahmad Kalsoom</h1>
 <h3 align="center">A passionate Medical developer from Germany</h3>
 
-<img align="right" alt="coding" width="400" src="<img align="https://res.cloudinary.com/practicaldev/image/fetch/s--vetgVeGm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zapl49gs057s2dk50a73.gif">)
+<img align="right" alt="coding" width="400" src="<img align="![image](https://github.com/LaibS21/LaibS21/assets/147617539/46374b30-97b9-45d0-95ab-c2bf37873cbd)
+">)
 
 - 🌱 Current vibe: **Working for the lifestyle i promised myself.**
 
