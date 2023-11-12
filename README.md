@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Laiba Ahmad Kalsoom</h1>
 <h3 align="center">A passionate Medical developer from Germany</h3>
 
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🌱 Current vibe: **Working for the lifestyle i promised myself.**
 
