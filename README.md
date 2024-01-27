@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Laiba Ahmad Kalsoom</h1>
-<h3 align="center">A passionate Medical developer from Germany</h3>
+<h3 align="center">A passionate developer from Germany</h3>
 
 - 🌱 Current vibe: Working for the lifestyle I promised myself.
 
